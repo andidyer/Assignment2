@@ -1,0 +1,18 @@
+           i   m   p   o   p   u   l   a   i   r   e   s
+      0i  1d  2d  3d  4d  5d  6d  7d  8d  9d 10d 11d 12d
+   p  1i  1s  2s  2m  3d  4m  5d  6d  7d  8d  9d 10d 11d
+   o  2i  2s  2s  3s  2m  3d  4d  5d  6d  7d  8d  9d 10d
+   p  3i  3s  3s  2m  3i  2m  3d  4d  5d  6d  7d  8d  9d
+   u  4i  4s  4s  3i  3s  3i  2m  3d  4d  5d  6d  7d  8d
+   l  5i  5s  5s  4i  4s  4s  3i  2m  3d  4d  5d  6d  7d
+   a  6i  6s  6s  5i  5s  5s  4i  3i  2m  3d  4d  5d  6d
+   r  7i  7s  7s  6i  6s  6s  5i  4i  3i  3s  3m  4d  5d
+
+verwantskap ('franska', 5)
+tussen ('fusses', 2)
+ontwikkelinge ('antifouling', 6)
+bevolkingsgroep ('bellinger', 8)
+binnelandse ('hinterlands', 4)
+onderskeie ('oversee', 4)
+familie ('familia', 1)
+behoort ('beaufort', 3)

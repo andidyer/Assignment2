@@ -1,0 +1,4 @@
+A 0
+A->C->E->D->F 20
+B->D 10
+None None

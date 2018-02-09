@@ -1,0 +1,8 @@
+['apa', 'apan', 'apans', 'apas', 'apor', 'aporna', 'apornas', 'apors']
+True
+False
+False
+['aa', 'aaaa', 'aabb', 'abab', 'abba', 'baab', 'baba', 'bb', 'bbaa', 'bbbb']
+['aa', 'aaaa', 'aaaaaa', 'aaaabb', 'aaabab', 'aaabba', 'aabaab', 'aababa', 'aabb', 'aabbaa', 'aabbbb', 'abaaab', 'abaaba', 'abab', 'ababaa', 'ababbb', 'abba', 'abbaaa', 'abbabb', 'abbbab', 'abbbba', 'baaaab', 'baaaba', 'baab', 'baabaa', 'baabbb', 'baba', 'babaaa', 'bababb', 'babbab', 'babbba', 'bb', 'bbaa', 'bbaaaa', 'bbaabb', 'bbabab', 'bbabba', 'bbbaab', 'bbbaba', 'bbbb', 'bbbbaa', 'bbbbbb']
+['anka', 'ankan', 'ankans', 'ankas', 'ankor', 'ankorna', 'ankornas', 'ankors', 'apa', 'apan', 'apans', 'apas', 'apor', 'aporna', 'apornas', 'apors']
+['apapapapo', 'apapapo', 'apapapor', 'apapaporr', 'apapo', 'apapor', 'apaporr', 'apaporrr', 'apaporrrr', 'apo', 'apor', 'aporr', 'aporrr', 'aporrrr', 'aporrrrr', 'aporrrrrr']
